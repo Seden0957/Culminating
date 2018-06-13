@@ -46,7 +46,7 @@ public class JFrame3 extends javax.swing.JFrame {
 
         jLabel3.setText("Make sure to use standard form for a formula like this");
 
-        jButton1.setText("Next");
+        jButton1.setText("jButton1");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
